@@ -1,7 +1,6 @@
 # /BLCK-N DDoS Attack Tools 🔥
 
-- **version 5.0 ✅**
-- **version 6.0 soon ✅**
+- **version 1.0 ✅**
 
 # ScreenShot📷:
 <img width="1268" height="661" alt="image" src="https://github.com/user-attachments/assets/a296c929-4002-40cc-9c63-c2496dad143a" />
