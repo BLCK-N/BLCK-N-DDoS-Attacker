@@ -3,7 +3,7 @@
 - **version 1.0**
 
 # ScreenShot📷:
-<img width="1268" height="661" alt="image" src="https://ibb.co/HT8tkdHm" />
+<img width="1268" height="661" alt="image" src="https://i.ibb.co/v3m8X6S/ton-image.png" />
 <img width="1297" height="744" alt="image" src="https://ibb.co/d0HkB0vG" />
 
 
