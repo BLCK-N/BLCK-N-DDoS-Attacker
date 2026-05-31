@@ -1,4 +1,4 @@
-# /BLCK-N DDoS Attack Tools 🔥
+# /BLCK-N DoS Attack Tools 🔥
 
 - **version 1.0**
 
